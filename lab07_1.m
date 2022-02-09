@@ -51,10 +51,4 @@ out=[repmat([1;0;0],[1,7]),repmat([0;1;0],[1,5]),repmat([0;0;1],[1,8])];
 nn=feedforwardnet;
 nn=train(nn,in,out);
 
-%projekt = dokumentacja, kod, dane
-%dokumentacja- jak to uruchomic
-%dokumentacja- obsluga, opis tematu, co kto robil, co nie dziala
-%czas: 2 miesiace
-%do 27 stycznia 
-
 
